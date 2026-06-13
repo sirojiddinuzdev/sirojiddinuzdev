@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm backend devoloper</h1>
-<h3 align="center">I'm</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sirojiddinuzdev" alt="sirojiddinuzdev" /></a> </p>
 
 - 🌱 I’m currently learning **Django rest framework, AI**
 
